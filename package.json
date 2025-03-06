@@ -1,0 +1,23 @@
+{
+  "name": "uhrh-project-new",
+  "version": "1.0.0",
+  "description": "c3c6feeb15c69965cb60e9705d3d715b7f247a8d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FARDIN-25/UHRH-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FARDIN-25/UHRH-Project/issues"
+  },
+  "homepage": "https://github.com/FARDIN-25/UHRH-Project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
